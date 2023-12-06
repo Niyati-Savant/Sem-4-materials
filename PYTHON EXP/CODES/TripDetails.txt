@@ -1,0 +1,6 @@
+ Niyati	 Savant	 19	 Female	Comps 	  Goa
+ Tanisqa	 Sawant	 18	 Female	AIDS  	  Gujarat
+ Sai Kaushik	 Sadu	 17	 Male	 	Chemical	  Assam
+ Jagjeet	 Sappal	 20	 Male	 	IT      	  Gujarat
+ Kaveri	 Solat	 21	 Female	Comps  	  Goa
+ 
